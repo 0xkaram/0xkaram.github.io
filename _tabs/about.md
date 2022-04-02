@@ -112,7 +112,7 @@ For PDF format [resume.pdf](/assets/files/Resume.pdf/)
     - Cyber Defense: [Certificate](/assets/img/certs/THM-cyberDefense.png)
 
     - Network
-        - ThrowBack: [Certification](/assets/img/certs/THM-Throwback.png), Writeup
+        - ThrowBack: [Certification](/assets/img/certs/THM-Throwback.png), [Writeup](/posts/Try-Hack-Me-Throwback-Write-Up/)
         - HoloLive: Writeup
         - Wreath: Writeup
 

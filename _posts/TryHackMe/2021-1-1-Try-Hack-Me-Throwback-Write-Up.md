@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TryHackMe: ThrowBack Network Penetration Test Report"
-date:   2021-1-1 00:00:37 +0200
+date:   2021-1-1
 categories: WriteUp TryHackMe ActiveDirectory
 ---
 ### **1. Disclamir**
