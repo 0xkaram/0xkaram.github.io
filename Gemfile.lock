@@ -92,9 +92,6 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
-    searchyll (0.10.2)
-      jekyll (>= 3.0)
-      nokogiri
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
