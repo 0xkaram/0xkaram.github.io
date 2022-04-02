@@ -11,7 +11,7 @@ I'm Mohamed Zakzouk.
 
 Mohamed is a Information Security Engineer, who is very passionate to anything related to computer security, Software, Hardware, Penetration Testing, Red-teaming, ... etc. His knowledge in `Electronics and Communications` gives him an advantage in `hardware and radio` hacking more than others in the field.
 
-For PDF format [resume.pdf](/assets/files/Resume.pdf/)
+For PDF format [resume.pdf](/assets/files/Resume.pdf)
 
 ## Currently working on
 
