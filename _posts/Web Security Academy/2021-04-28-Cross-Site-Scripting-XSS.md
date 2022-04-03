@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Web Security Academy: Cross Site Scripting (XSS)"
-date:   2022-4-1
+title: "Web Security Academy: Cross Site Scripting XSS"
+date:   2021-04-1
 categories: WriteUp Web-Security-Academy XSS
 ---
 #### *Disclamir*
