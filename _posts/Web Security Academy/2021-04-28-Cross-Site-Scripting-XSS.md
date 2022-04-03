@@ -3,6 +3,7 @@ layout: post
 title: "Web Security Academy: Cross Site Scripting XSS"
 date:   2021-04-1
 categories: WriteUp Web-Security-Academy XSS
+tags: xss jquery AngularJS Exploiting JavaScript CSP
 ---
 #### *Disclamir*
 

@@ -3,6 +3,7 @@ layout: post
 title: "HackTheBox: Mass Report"
 date:   2021-1-19
 categories: WriteUp HackTheBox ActiveDirectory
+tags: jekyll blog github-page xss
 ---
 ### **1. Disclamir**
 
